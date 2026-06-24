@@ -167,31 +167,6 @@ Open your browser at **http://localhost:5173**
 
 ## 🌍 Deployment
 
-### Deploy Backend to Railway
-
-1. Go to [railway.app](https://railway.app) and sign up
-2. Click **New Project** → **Deploy from GitHub repo**
-3. Select your repo and choose the `server` folder
-4. Add these environment variables in Railway:
-   ```
-   JWT_SECRET=your_secret_key
-   CLIENT_URL=https://your-app.vercel.app
-   PORT=5000
-   ```
-5. Copy your Railway deployment URL
-
-### Deploy Frontend to Vercel
-
-1. Go to [vercel.com](https://vercel.com) and sign up
-2. Click **New Project** → Import your GitHub repo
-3. Set **Root Directory** to `client`
-4. Add this environment variable:
-   ```
-   VITE_API_URL=https://your-railway-url.railway.app/api
-   ```
-5. Click **Deploy**
-
----
 
 ## 📸 Screenshots
 
