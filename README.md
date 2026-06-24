@@ -174,11 +174,6 @@ Open your browser at **http://localhost:5173**
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
----
 
 ## 📄 License
 
@@ -188,6 +183,4 @@ MIT License — feel free to use this project however you like.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **Abdul Samad Khan**
-
-> *"The truth is rarely pure and never simple."* — Oscar Wilde
+Built  by **Abdul Samad Khan**
